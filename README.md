@@ -1,40 +1,43 @@
-# Projet 8 — Analyse de l’évolution de profils sociodémographiques (égalité F/H)
+# Projet 8 – Analysez des indicateurs de l’égalité femmes/hommes en respect du RGPD
 
 ## 🎯 Objectif
-Analyser des indicateurs RH liés à l’égalité professionnelle Femmes / Hommes et produire des livrables fiables, conformes au RGPD, destinés à un usage décisionnel.
+Analyser les indicateurs relatifs à l’égalité professionnelle entre les femmes et les hommes
+au sein d’une entreprise, tout en respectant les exigences du RGPD.
 
-## 🧩 Contexte (OpenClassrooms)
-Projet réalisé dans le cadre de la formation **Data Analyst**. Le projet vise à démontrer la capacité à manipuler des données sensibles, à structurer des indicateurs RH et à restituer des résultats de manière claire et responsable.
+## 📌 Contexte
+Projet réalisé dans le cadre de la formation **Data Analyst – OpenClassrooms**.  
+Ce projet vise à démontrer la capacité à traiter des données sensibles,
+à produire des indicateurs réglementaires et à restituer des résultats
+dans un cadre légal contraint.
 
 ## ❓ Problématique
-Comment **analyser l’égalité professionnelle Femmes / Hommes** à partir de données RH tout en garantissant :
-- la fiabilité des indicateurs,
-- la conformité au RGPD,
-- la lisibilité pour des décideurs non techniques ?
+Comment analyser et restituer des indicateurs d’égalité femmes/hommes
+tout en garantissant la protection des données personnelles
+et la conformité au RGPD ?
 
 ## 🛠️ Approche & outils
-- Préparation des données RH : nettoyage, contrôles de cohérence, anonymisation
-- Construction d’indicateurs : répartition des effectifs, promotions, rémunérations, accidents du travail
-- Structuration du workflow analytique
-- Outils : KNIME (workflows), Excel / CSV, principes de gouvernance des données
+- Analyse des données RH
+- Nettoyage et anonymisation des données
+- Construction d’indicateurs réglementaires
+- Visualisation des résultats
+- Restitution claire et compréhensible pour des profils non techniques
+
+**Outils utilisés :**
+- KNIME
+- Excel / CSV
+- Principes RGPD (anonymisation, minimisation des données)
 
 ## 📊 Résultats & livrables
-- Indicateurs réglementaires d’égalité professionnelle F/H
-- Graphiques d’aide à la lecture et à l’interprétation
-- Fichier de sortie structuré pour analyses complémentaires (ex. Tableau / Power BI)
-- Documentation méthodologique
+Le projet aboutit à :
+- des indicateurs clés sur l’égalité professionnelle
+- une analyse structurée et conforme au RGPD
+- une restitution pédagogique des résultats
 
-## 💡 Compétences mobilisées
+L’ensemble des livrables est disponible dans le dossier `livrables/`.
+
+## ✅ Compétences mobilisées
 - Analyse de données RH
-- Structuration et automatisation de traitements
-- Gouvernance de la donnée & RGPD
-- Restitution pédagogique pour décideurs
-
-## 🔎 Comment parcourir ce repository
-- `workflows/` : logique de traitement et étapes clés
-- `data/` : données anonymisées ou structures (sans données sensibles)
-- `docs/` : méthodologie, définitions des indicateurs, limites
-
----
-
-📌 *Ce repository met en avant la capacité à traiter des données sensibles dans un cadre réglementaire, avec une approche rigoureuse et orientée métier.*
+- Traitement de données sensibles
+- Conformité RGPD
+- Data visualisation
+- Restitution orientée métier
